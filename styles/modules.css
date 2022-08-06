@@ -256,3 +256,42 @@ margin-right: 2.5vw;
     left: 22.5%;
     justify-content: center;
 }
+
+.settings1{
+    justify-self: end;
+}
+
+/* 4 визначення вгорі апі2 */
+.api-item1{
+    position: absolute;
+    display: flex;
+    top: 8%;
+    left: 26%;
+    font-size: 13px;
+    font-family: SourceCodePro Medium;
+}
+.api-item2{
+    position: absolute;
+    display: flex;
+    top: 10%;
+    left: 25%;
+    font-size: 13px;
+    font-family: SourceCodePro Medium;
+}
+.api-item3{
+    position: absolute;
+    display: flex;
+    top: 12%;
+    left: 27%;
+    font-size: 13px;
+    font-family: SourceCodePro Medium;
+}
+.api-item4{
+    position: absolute;
+    display: flex;
+    top: 14%;
+    left: 34%;
+    font-size: 13px;
+    font-family: SourceCodePro Medium;
+}
+

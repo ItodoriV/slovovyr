@@ -2,6 +2,10 @@
     font-family: 'KyivRegion Regular' ;
     src: url('/KyivRegion-Regular_0.ttf');
 }
+@font-face {
+    font-family: 'SourceCodePro Medium' ;
+    src: url('/SourceCodePro-Medium.ttf');
+}
 *{
     margin: 0;
     padding: 0;
