@@ -1,0 +1,258 @@
+.box{
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+    align-items: center;
+}
+.icon{
+    display: flex;
+    width: 50%;
+    justify-content: end;
+    padding-right: 5%;
+    align-items: center;
+}
+
+.slovovyr{
+    position: absolute;
+    left:calc(50% - 260px/2);
+    top: 15%;
+}
+.logo{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    position: absolute;
+    top: 55%;
+}
+.button{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    position: absolute;
+    top: 75%;
+}
+.button-item{
+    border: 1px white solid;
+    border-radius: 5px;
+    width: 250px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+
+}
+.ukraine{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    position: absolute;
+    top: 30%;
+}
+.ukraine_filling{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    position: absolute;
+    top: 30%;
+}
+
+.modals{
+    justify-self: end;
+    display: flex;
+    width: 100%;
+    justify-content: end;
+}
+
+.arrow{
+    justify-self: start;
+}
+.logosmall{
+    justify-self: center;
+}
+
+.modals div:first-child{
+margin-right: 2.5vw;
+}
+
+/* Поміняв item на iten бо з*являються рамки
+ в хедері на першій сторінці */
+.iten{  
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid #ffffff;
+}
+.container{
+    position: absolute;
+    top: 200px;
+    left: 33px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-column-gap: 2%;
+    grid-row-gap: 2%;
+}
+
+.timerline{
+    position: absolute;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    top: 70px;
+}
+   
+.keyboard{
+    position: absolute;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    top: 650px;
+}
+
+/* модалка з налаштуваннями */
+.modal{
+    position: absolute;
+    display: flex;
+    width: 361px;
+    height: 254px;
+    border: 1px #ffffff solid;
+    border-radius: 10px;
+    top: 336px;
+    justify-self: center;
+}
+
+.modal-cross{
+    position: absolute;
+    display: flex;
+    left: 91%;
+    top: 5%;
+}
+
+.modal-title{
+    position: absolute;
+    display: flex;
+    font-size: 20px;
+    justify-self: center;
+    left: 30%;
+    top: 10%;
+}
+
+.modal-item1{
+    position: absolute;
+    display: flex;
+    font-size: 22px;
+    top: 40%;
+    left: 6%;
+}
+
+.modal-item2{
+    position: absolute;
+    display: flex;
+    font-size: 22px;
+    top: 70%;
+    left: 6%;
+}
+
+.modal-switch1{
+    position: absolute;
+    display: flex;
+    top: 37%;
+    left: 74%;
+}
+
+.modal-switch2{
+    position: absolute;
+    display: flex;
+    top: 67%;
+    left: 74%;
+}
+
+/* модалка яка вилазить після перемоги */
+.modal-victory{
+    position: absolute;
+    display: flex;
+    width: 361px;
+    height: 179px;
+    border: 1px #02ff0c solid;
+    border-radius: 10px;
+    top: 336px;
+    justify-self: center;
+}
+.modal-item3{
+    position: absolute;
+    display: flex;
+    font-size: 24px;
+    top: 15%;
+    left: 40%;
+    justify-self: center;
+}
+.modal-item4{
+    position: absolute;
+    display: flex;
+    font-size: 20px;
+    top: 45%;
+    left: 22%;
+}
+.modal-item5{
+    position: absolute;
+    display: flex;
+    font-size: 20px;
+    top: 70%;
+    left: 28%;
+}
+.modal-cross1{
+    position: absolute;
+    display: flex;
+    left: 91%;
+    top: 6%;
+}
+/* модалка яка вилазить після програшу */
+.modal-loss{
+    position: absolute;
+    display: flex;
+    width: 361px;
+    height: 179px;
+    border: 1px #fd8383 solid;
+    border-radius: 10px;
+    top: 336px;
+    justify-self: center;
+}
+
+.button1{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    position: absolute;
+    top: 75%;
+}
+.button-item1{
+    border: 1px #808080 solid;
+    border-radius: 5px;
+    width: 250px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: #808080;
+}
+
+/* таймер і напис до нього */
+.timer-item1{
+    position: absolute;
+    display: flex;
+    font-size: 30px;
+    top: 37%;
+    left: 14.5%;
+    justify-content: center;
+}
+
+.timer-item2{
+    position: absolute;
+    display: flex;
+    font-size: 50px;
+    top: 50%;
+    left: 22.5%;
+    justify-content: center;
+}

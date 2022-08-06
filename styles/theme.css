@@ -1,0 +1,50 @@
+.light{
+    background-color: #ffffff;
+}
+.light *{
+    color: #404040;
+    border-color: #404040;
+}
+.light path {
+    stroke: #404040;
+}
+.light #logo path,
+.light #vyr path {
+    fill: #404040;
+}
+.ukraine * {
+    stroke: white;
+}
+.light #chosen {
+    fill: #404040;
+}
+
+.light #keyboard * {
+    stroke: #404040;
+}
+.light #logosmall * {
+    fill: #404040;
+}
+.light #info * {
+    stroke: #404040;
+}
+.light #letters {
+    fill: #404040;
+}
+.light #switch1 * {
+    stroke: #808080;  
+}
+
+.light .modal-victory{
+    border-color: #02ff0c;
+}
+.light .modal-loss{
+    border-color: #fd8383;
+}
+
+.light .button-item1 {
+    color: #808080;
+}
+.light .button1 * {
+    border-color: #808080;
+}
