@@ -40,7 +40,6 @@
     justify-content: center;
     align-items: center;
     font-size: 30px;
-
 }
 .ukraine{
     display: flex;
@@ -413,3 +412,90 @@ margin-right: 2.5vw;
     font-family: SourceCodePro Medium;
 }
 
+/* сторінка історії ігор гравця */
+.history-item1{
+    position: absolute;
+    display: flex;
+    top: 13%;
+    left: 38.5%;
+    font-size: 30px;
+}
+
+.box3{
+    position: absolute;
+    display: flex;
+    width: 150%;
+    top: 24.5%;
+    left: -25%;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 20px;
+}
+.history-time{
+    position: fixed;
+    display: flex;
+    left: 35%;
+}
+.history-line{
+    position: absolute;
+    display: flex;
+    top: 27%;
+    left: 7.5%;
+}
+
+
+.box4{
+    position: absolute;
+    display: flex;
+    width: 150%;
+    top: 31%;
+    left: -25%;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 20px;
+}
+.history-time{
+    position: fixed;
+    display: flex;
+    left: 35%;
+}
+.history-line2{
+    position: absolute;
+    display: flex;
+    top: 33.5%;
+    left: 7.5%;
+}
+
+
+.box5{
+    position: absolute;
+    display: flex;
+    width: 150%;
+    top: 37.5%;
+    left: -25%;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 20px;
+}
+.history-time{
+    position: fixed;
+    display: flex;
+    left: 35%;
+}
+.history-line3{
+    position: absolute;
+    display: flex;
+    top: 40%;
+    left: 7.5%;
+}
+
+.button-history{
+    border: 1px white solid;
+    border-radius: 5px;
+    width: 250px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 27px;
+}

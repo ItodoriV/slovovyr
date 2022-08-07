@@ -58,3 +58,13 @@
 .light .line1 * {
     stroke: #404040;
 }
+
+.light .history-line * {
+    stroke: #404040;
+}
+.light .history-line2 * {
+    stroke: #404040;
+}
+.light .history-line3 * {
+    stroke: #404040;
+}
