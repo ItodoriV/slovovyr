@@ -101,7 +101,6 @@ margin-right: 2.5vw;
     justify-content: center;
     top: 70px;
 }
-   
 .keyboard{
     position: absolute;
     display: flex;
@@ -291,6 +290,49 @@ margin-right: 2.5vw;
     display: flex;
     top: 14%;
     left: 34%;
+    font-size: 13px;
+    font-family: SourceCodePro Medium;
+}
+.api-item5{
+    position: absolute;
+    display: flex;
+    top: 20%;
+    left: 7%;
+    font-size: 18px;
+}
+.link-icon{
+    position: absolute;
+    display: flex;
+    top: 26%;
+    left: 46.5%;
+}
+.api-item6{
+    position: absolute;
+    display: flex;
+    top: 33%;
+    left: 11.5%;
+    font-size: 18px;
+}
+.api-item7{
+    position: absolute;
+    display: flex;
+    top: 41%;
+    left: 3%;
+    font-size: 13px;
+    font-family: SourceCodePro Medium;
+}
+.api-item8{
+    position: absolute;
+    display: flex;
+    top: 87%;
+    left: 9%;
+    font-size: 18px;
+}
+.api-item9{
+    position: absolute;
+    display: flex;
+    top: 93%;
+    left: 37%;
     font-size: 13px;
     font-family: SourceCodePro Medium;
 }
