@@ -48,3 +48,13 @@
 .light .button1 * {
     border-color: #808080;
 }
+
+.light .link-icon * {
+    fill: #404040;
+}
+.light .link-icon2 * {
+    fill: #404040;
+}
+.light .line1 * {
+    stroke: #404040;
+}

@@ -260,11 +260,11 @@ margin-right: 2.5vw;
     justify-self: end;
 }
 
-/* 4 визначення вгорі апі2 */
+/* сторінка апі зі скролом */
 .api-item1{
     position: absolute;
     display: flex;
-    top: 8%;
+    top: 100%;
     left: 26%;
     font-size: 13px;
     font-family: SourceCodePro Medium;
@@ -272,7 +272,7 @@ margin-right: 2.5vw;
 .api-item2{
     position: absolute;
     display: flex;
-    top: 10%;
+    top: 102%;
     left: 25%;
     font-size: 13px;
     font-family: SourceCodePro Medium;
@@ -280,7 +280,7 @@ margin-right: 2.5vw;
 .api-item3{
     position: absolute;
     display: flex;
-    top: 12%;
+    top: 104%;
     left: 27%;
     font-size: 13px;
     font-family: SourceCodePro Medium;
@@ -288,7 +288,7 @@ margin-right: 2.5vw;
 .api-item4{
     position: absolute;
     display: flex;
-    top: 14%;
+    top: 106%;
     left: 34%;
     font-size: 13px;
     font-family: SourceCodePro Medium;
@@ -296,27 +296,27 @@ margin-right: 2.5vw;
 .api-item5{
     position: absolute;
     display: flex;
-    top: 20%;
+    top: 112%;
     left: 7%;
     font-size: 18px;
 }
 .link-icon{
     position: absolute;
     display: flex;
-    top: 26%;
+    top: 118%;
     left: 46.5%;
 }
 .api-item6{
     position: absolute;
     display: flex;
-    top: 33%;
+    top: 125%;
     left: 11.5%;
     font-size: 18px;
 }
 .api-item7{
     position: absolute;
     display: flex;
-    top: 41%;
+    top: 133%;
     left: 3%;
     font-size: 13px;
     font-family: SourceCodePro Medium;
@@ -324,15 +324,91 @@ margin-right: 2.5vw;
 .api-item8{
     position: absolute;
     display: flex;
-    top: 87%;
+    top: 176%;
     left: 9%;
     font-size: 18px;
 }
 .api-item9{
     position: absolute;
     display: flex;
-    top: 93%;
+    top: 182%;
     left: 37%;
+    font-size: 13px;
+    font-family: SourceCodePro Medium;
+    padding-bottom: 7%;
+}
+.api-item10{
+    position: absolute;
+    display: flex;
+    top: 9%;
+    left: 44%;
+    font-size: 30px;
+}
+
+/* api-item11 буде замінено на реальне апі */
+.api-item11{
+    position: absolute;
+    display: flex;
+    top: 17%;
+    left: 9%;
+    font-size: 20px;
+    text-align: center;
+}
+
+.api-item12{
+    position: absolute;
+    display: flex;
+    top: 32%;
+    left: 7%;
+    font-size: 18px;
+    text-align: center;
+}
+.link-icon2{
+    position: absolute;
+    display: flex;
+    top: 37%;
+    left: 46.5%;
+}
+.line1{
+    position: absolute;
+    display: flex;
+    top: 43.5%;
+    left: 7.5%;
+}
+.api-item13{
+    position: absolute;
+    display: flex;
+    top: 48%;
+    left: 33.5%;
+    font-size: 30px;
+}
+.api-item14{
+    position: absolute;
+    display: flex;
+    top: 55%;
+    left: 13%;
+    font-size: 18px;
+}
+.api-item15{
+    position: absolute;
+    display: flex;
+    top: 60%;
+    left: 1.5%;
+    font-size: 13px;
+    font-family: SourceCodePro Medium;
+}
+.api-item16{
+    position: absolute;
+    display: flex;
+    top: 91%;
+    left: 8.5%;
+    font-size: 18px;
+}
+.api-item17{
+    position: absolute;
+    display: flex;
+    top: 96%;
+    left: 32.5%;
     font-size: 13px;
     font-family: SourceCodePro Medium;
 }
