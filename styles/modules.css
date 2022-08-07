@@ -499,3 +499,42 @@ margin-right: 2.5vw;
     align-items: center;
     font-size: 27px;
 }
+
+
+.modal-rules{
+    position: absolute;
+    display: flex;
+    width: 361px;
+    height: 591px;
+    border: 1px #ffffff solid;
+    border-radius: 10px;
+    top: 150px;
+    justify-self: center;
+}
+.rules-cross{
+    position: absolute;
+    display: flex;
+    left: 92%;
+    top: 2%;
+}
+.rules-item1{
+    position: absolute;
+    display: flex;
+    font-size: 20px;
+    top: 4%;
+    left: 39%;
+}
+.rules-item2{
+    position: absolute;
+    display: flex;
+    font-size: 12px;
+    top: 12%;
+    left: 3%;
+}
+.rules-item3{
+    position: absolute;
+    display: flex;
+    font-size: 12px;
+    top: 19%;
+    left: 3%;
+}
