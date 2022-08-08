@@ -68,3 +68,27 @@
 .light .history-line3 * {
     stroke: #404040;
 }
+
+.light .thing2 {
+    border-color: #02ff0c;
+}
+.light .thing4 {
+    border-color: #ffd600;
+}
+
+.light .thing6 {
+    border-color: #02ff0c;
+}
+.light .thing7 {
+    border-color: #ffd600;
+}
+.light .thing11 {
+    border-color: #02ff0c;
+}
+.light .thing12 {
+    border-color: #02ff0c;
+}
+
+.light .container6 * {
+    border-color: #02ff0c;
+}

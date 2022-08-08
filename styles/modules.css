@@ -538,3 +538,164 @@ margin-right: 2.5vw;
     top: 19%;
     left: 3%;
 }
+
+/* квадратики зі словом "земля" */
+.rules-item{  
+    width: 60px;
+    height: 60px;
+    border-radius: 5px;
+    border: 2px solid #808080;
+    box-sizing: border-box;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 6px;
+}
+.container2{
+    position: absolute;
+    top: 150px;
+    left: 14px;
+    display: flex;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 8px;
+    width: 100%;
+}
+.thing2{
+    border-color: #02ff0c;
+}
+.thing4{
+    border-color: #ffd600;
+}
+
+/* маленькі квадратики */
+.rules-cubes{  
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    border: 2px solid #808080;
+    box-sizing: border-box;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 5px;
+}
+.container3{
+    position: absolute;
+    top: 238px;
+    left: 14px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 8px;
+    width: 100%;
+}
+.thing6{
+    border-color: #02ff0c;
+}
+.thing7{
+    border-color: #ffd600;
+}
+
+.rules-text1{
+    position: absolute;
+    display: flex;
+    font-size: 12px;
+    top: 246px;
+    left: 57px;
+}
+.rules-text2{
+    position: absolute;
+    display: flex;
+    font-size: 12px;
+    top: 284.5px;
+    left: 57px;
+}
+
+
+.rules-cubes1{  
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    border: 2px solid #808080;
+    box-sizing: border-box;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 5px;
+}
+.container4{
+    position: absolute;
+    top: 314px;
+    left: 14px;
+    display: flex;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 8px;
+    width: 100%;
+}
+.rules-text3{
+    position: absolute;
+    display: flex;
+    font-size: 12px;
+    top: 322px;
+    left: 133px;
+}
+
+/* два великі блоки з квадратами */
+.rules-cubes2{  
+    width: 60px;
+    height: 60px;
+    border-radius: 5px;
+    border: 2px solid #808080;
+    box-sizing: border-box;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 5px;
+}
+.container5{
+    position: absolute;
+    top: 379px;
+    left: 14px;
+    display: flex;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 8px;
+    width: 100%;
+}
+.thing11{
+    border-color: #02ff0c;
+}
+.thing12{
+    border-color: #02ff0c;
+}
+
+.rules-text4{
+    position: absolute;
+    display: flex;
+    font-size: 12px;
+    top: 452px;
+    left: 44.4%;
+}
+
+
+.rules-cubes3{  
+    width: 60px;
+    height: 60px;
+    border-radius: 5px;
+    border: 2px solid #02ff0c;
+    box-sizing: border-box;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 5px;
+}
+.container6{
+    position: absolute;
+    top: 479px;
+    left: 14px;
+    display: flex;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 8px;
+    width: 100%;
+}
+
+.rules-text5{
+    position: absolute;
+    display: flex;
+    font-size: 12px;
+    top: 553px;
+    left: 42%;
+}
